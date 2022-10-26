@@ -192,3 +192,8 @@ This graph contains one peak the sample size is 36. The mean is `r mean(my1000$k
 and the standard deviation is `r sd(my1000$k36) ` . The standard deviation came out as expected. We were expecting the standard deviation to be 1/6 of the original standard deviation which was 41.
 
 
+
+## Conclusion 
+
+ The results shown by each of the graphs support the Central limit Theorem. The Central limit theorem states that the when you change the sample size of a given population the mean will remain the same but the standard deviation will decrease and can be found by dividing the number of samples in the average by the square root. In each of the graphs we did the mean remained the same and the standard deviation was 1 over the square root of the sample size. Therefore, the graphs behaved according to the Central Limit Theorem.
+
